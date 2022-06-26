@@ -1,2 +1,2 @@
 - Hi, I’m @SavageSec
-- I’m interested in CyberSecurity & Python.
+- I’m interested in CyberSecurity & programming.
